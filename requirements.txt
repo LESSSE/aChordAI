@@ -19,7 +19,7 @@ Pillow>=3.4.2
 
 
 #Music
--e https://github.com/LESSSE/pygmidi.git@master
+-e git+https://github.com/LESSSE/pygmidi.git@master
 
 librosa>=0.6.0
 
