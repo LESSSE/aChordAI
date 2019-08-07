@@ -19,6 +19,7 @@ Pillow>=3.4.2
 
 
 #Music
+-e git+https://github.com/LESSSE/pygmidi.git@master#egg=pygmidi
 librosa>=0.6.0
 python-rtmidi
 pretty-midi>=0.2.6
